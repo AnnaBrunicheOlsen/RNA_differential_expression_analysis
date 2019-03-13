@@ -1,4 +1,4 @@
-# RNA_bendy_chicken
+# Differential expression analyses
 These scripts are developed for the Bendy Chicken project.
 
 September 2017
